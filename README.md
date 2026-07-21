@@ -18,6 +18,9 @@ Stack: **KNIME** (ETL), **Python** (EDA y detección de anomalías), **Power BI*
 │   └── eda_salud_ecuador.ipynb   # EDA, validación de calidad y Isolation Forest
 ├── powerbi/
 │   └── Proyecto_Analisis_de_Dato.pbix            # modelo de datos y dashboard
+├── initial_data/
+│   └── Datos_Iniciales.zip.part-aa
+│   └── Datos_Iniciales.zip.part-ab              # Datos iniciales
 ├── docs/
 │   └── Informe_IEEE.docx         # informe técnico completo (formato IEEE)
 └── README.md
