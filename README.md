@@ -80,6 +80,6 @@ Al ejecutar solicita la contraseña de SQL Server mediante `getpass` (no está h
 
 ## Informe completo
 
-El detalle técnico completo (metodología, calidad de datos, resultados, limitaciones) está en `docs/Informe_IEEE.docx`.
+El detalle técnico completo (metodología, calidad de datos, resultados, limitaciones) está en `docs/INFORME PROYECTO ANÁLISIS DE DATOS.pdf`.
 
 Repositorio: https://github.com/DrosherJC/Proyecto-An-lisis-de-Datos
